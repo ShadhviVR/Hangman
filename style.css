@@ -5,11 +5,14 @@
   font-family: "Poppins", sans-serif;
 }
 body {
-  background-color: #f4c531;
+  background: linear-gradient(0.23turn, #8ed2f0, #a8f071, #f0b77b);
+}
+h1{
+  text-align: center;
 }
 .container {
   font-size: 16px;
-  background-color: #ffffff;
+  background-color: linear-gradient(0.25turn, #046b97, #4ba605, #904c03);
   width: 90vw;
   max-width: 34em;
   position: absolute;
@@ -18,7 +21,7 @@ body {
   left: 50%;
   padding: 3em;
   border-radius: 0.6em;
-  box-shadow: 0 1.2em 2.4em rgba(111, 85, 0, 0.25);
+  box-shadow: 0 1.2em 2.4em ;
 }
 #options-container {
   text-align: center;
